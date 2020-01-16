@@ -12,7 +12,7 @@
         android:label="doctor_scheduler"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDv9o-MG-4mBLbVmtgu7QF5gHB-TGnyJKE"/>
+               android:value="_PASTE_API_KEY_HERE_"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
